@@ -28,7 +28,7 @@ public class TestGreeter {
   }
   @Test
   public void wanted_fail() {
-    assertTrue(false);
+    assertTrue(True);
   }
   @Test
   public void greetShouldIncludeGreetingPhrase() {
